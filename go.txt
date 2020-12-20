@@ -1,1 +1,2 @@
 this is a go file as a git test
+Atom test
